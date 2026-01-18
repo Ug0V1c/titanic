@@ -2,7 +2,7 @@ Name: Jeremiah Bwala
 
 Matric Number: 22CG031843
 
-Machine Learning Algorithm Used:
+Machine Learning Algorithm Used: Random Forest Classifier
 
 Model persistence method used (e.g., Joblib or Pickle): Pickle
 
