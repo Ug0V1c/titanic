@@ -1,11 +1,11 @@
-Name: Jeremiah Bwala
+Name: Mbadiwe Victor
 
-Matric Number: 22CG031843
+Matric Number: 22CG031886
 
 Machine Learning Algorithm Used: Random Forest Classifier
 
 Model persistence method used (e.g., Joblib or Pickle): Pickle
 
-Live URL of the hosted application:
+Live URL of the hosted application: https://titanic-xn4t.onrender.com
 
-GitHub repository link:https ://github.com/Anonymousexit/Titanic_survival_prediction-system/blob/main/render.yaml
+GitHub repository link: https://github.com/Ug0V1c/titanic

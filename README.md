@@ -18,9 +18,10 @@ Titanic_Project_YourName_MatricNo/
 ├── app.py                          # Flask web application
 ├── requirements.txt                # Python dependencies
 ├── render.yaml                     # Render deployment config
+├── Procfile                        # Deployment configuration
 ├── README.md                       # Project documentation
 ├── model/
-│   ├── model_building.ipynb        # Model training notebook
+│   ├── model_building.py           # Model training script
 │   └── titanic_survival_model.pkl  # Trained model file
 └── templates/
     └── index.html                  # Web interface
@@ -116,8 +117,8 @@ https://titanic-survival-prediction.onrender.com
 
 The model was trained using Google Colab. To retrain:
 
-1. Open `model/model_building.ipynb` in Google Colab
-2. Run all cells sequentially
+1. Upload `model/model_building.py` to Google Colab
+2. Run the script
 3. Download the generated `titanic_survival_model.pkl`
 4. Replace the file in the `model/` folder
 
@@ -191,8 +192,8 @@ This project is created for educational purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Matric No: Your Matric Number  
+**Jeremiah Bwala**  
+Matric No: 22CG031843  
 Course: Machine Learning / Data Science  
 
 ## 🙏 Acknowledgments
